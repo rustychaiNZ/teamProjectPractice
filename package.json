@@ -1,0 +1,35 @@
+{
+  "name": "teamprojectpractice",
+  "version": "1.0.0",
+  "description": "## Practicing using branching paths in github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustychaiNZ/teamProjectPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustychaiNZ/teamProjectPractice/issues"
+  },
+  "homepage": "https://github.com/rustychaiNZ/teamProjectPractice#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "jshint": "^2.11.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "csslint": "^1.0.5",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1",
+    "sass": "^1.25.0",
+    "watch": "^1.0.2"
+  }
+}
